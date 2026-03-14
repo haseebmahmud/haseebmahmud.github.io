@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Haseeb Mahmud</title>
+<link>https://haseebmahmud.github.io/</link>
+<atom:link href="https://haseebmahmud.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Sat, 14 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to My Blog</title>
+  <dc:creator>Haseeb Mahmud</dc:creator>
+  <link>https://haseebmahmud.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Welcome to my blog! This is my first post.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://haseebmahmud.github.io/posts/welcome/</guid>
+  <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
