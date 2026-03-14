@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Haseeb Mahmud",
     "section": "",
-    "text": "This is a Quarto website. আমার সোনার বাঙলা ।\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nটেস্ট করছি"
+    "text": "My second Post Title\n\n\n\n\n\n\ntag1\n\n\ntag2\n\n\n\n\n\n\n\n\n\nMar 14, 2026\n\n\nHaseeb Mahmud\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 14, 2026\n\n\nHaseeb Mahmud\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/second post/index.html",
+    "href": "posts/second post/index.html",
+    "title": "My second Post Title",
+    "section": "",
+    "text": "Write your content here in Markdown."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome to my blog! This is my first post."
   }
 ]
