@@ -29,5 +29,24 @@
   <guid>https://haseebmahmud.github.io/posts/welcome/</guid>
   <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>পোস্ট করছি</title>
+  <dc:creator>হাসিব মাহমুদ</dc:creator>
+  <link>https://haseebmahmud.github.io/posts/second post/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Write your content here in Markdown.</p>
+
+
+
+ ]]></description>
+  <category>সমকাল</category>
+  <category>দেশ</category>
+  <guid>https://haseebmahmud.github.io/posts/second post/</guid>
+  <pubDate>Sat, 14 Mar 2026 00:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
