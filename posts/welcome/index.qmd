@@ -1,0 +1,8 @@
+---
+title: "Welcome to My Blog"
+author: "Haseeb Mahmud"
+date: "2026-03-14"
+categories: [news]
+---
+
+Welcome to my blog! This is my first post.

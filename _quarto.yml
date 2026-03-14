@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "haseebmahmud.github.io"
+  title: "Haseeb Mahmud"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
