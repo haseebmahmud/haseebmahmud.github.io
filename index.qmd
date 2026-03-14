@@ -1,9 +1,0 @@
----
-title: "Haseeb Mahmud"
----
-
-This is a Quarto website. আমার সোনার বাঙলা । 
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-মাদারীপুরে রাস্তার দুই পাশে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা–কর্মীদের গাছ কেটে ফেলে রাখায় দুর্ভোগে পড়েন জেলার অসংখ্য মানুষ ও ওই সড়কে চলাচলকারী যাত্রীরা। এ সময় সড়কে তৈরি হয় তীব্র যানজট।  
